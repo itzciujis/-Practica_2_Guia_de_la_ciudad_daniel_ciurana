@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guía de Barcelona</string>
+
+    <string name="tab_monuments">Monumentos</string>
+    <string name="tab_restaurants">Restaurantes</string>
+    <string name="tab_leisure">Ocio</string>
+
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_share_app">Compartir app</string>
+    <string name="menu_tourism_web">Web de turismo</string>
+
+    <string name="about_title">Guía de Barcelona</string>
+    <string name="about_message">Práctica 2 · Programación multimedia y dispositivos móviles.\n\nGuía turística de Barcelona con intents explícitos e implícitos.</string>
+    <string name="ok">Aceptar</string>
+
+    <string name="btn_map">Ver en el mapa</string>
+    <string name="btn_call">Llamar</string>
+    <string name="btn_web">Abrir web</string>
+    <string name="btn_share">Compartir</string>
+
+    <string name="label_address">Dirección</string>
+    <string name="label_description">Descripción</string>
+
+    <string name="share_app_text">¡Prueba la Guía de Barcelona!</string>
+    <string name="share_chooser">Compartir con…</string>
+    <string name="error_no_app">No hay ninguna aplicación disponible para esta acción</string>
+    <string name="error_no_place">No se pudo cargar el lugar</string>
+</resources>
